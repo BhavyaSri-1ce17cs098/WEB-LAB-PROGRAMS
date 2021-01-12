@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="prg5.css"?>
+
+<STUDENTDATA>
+
+ <STUDENT>
+  <USN>USN   : 1CE17CS098</USN>
+  <NAME>NAME : BHAVYA </NAME>
+  <COLLEGE>COLLEGE : C.E.C</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : srikanthamshree@gmail.com</EMAIL>
+ </STUDENT>
+
+ <STUDENT>
+  <USN>USN : 1CE17CS103</USN>
+  <NAME>NAME : SAHANA </NAME>
+  <COLLEGE>COLLEGE : C.E.C</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : sanasahana020@gmail.com</EMAIL>
+ </STUDENT>
+
+ <STUDENT>
+  <USN>USN   : 1CE17CS109</USN>
+  <NAME>NAME : SANJANA </NAME>
+  <COLLEGE>COLLEGE : C.E.C</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2020</YEAR>
+  <EMAIL>E-MAIL : sanjana07@gmail.com</EMAIL>
+ </STUDENT>
+ 
+</STUDENTDATA>
